@@ -51,3 +51,8 @@ This outline provides a general structure for organizing and presenting data. Yo
 8. Cloud-based platforms: Amazon Web Services (AWS), Google Cloud, Microsoft Azure
 9. Data science platforms: DataRobot, Dataiku, Rapid Miner
 10. Business intelligence tools: QlikView, Cognos, BusinessObjects
+11.	~~~
+    Google Query Sheet
+    SELECT *FROM TABLE 1
+    WHERE CONDITION =NET
+    ~~~
