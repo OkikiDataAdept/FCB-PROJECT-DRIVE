@@ -57,3 +57,10 @@ This outline provides a general structure for organizing and presenting data. Yo
     WHERE CONDITION =NET
     ~~~
 ![](OIP.jpeg)
+#Excel
+~~~
+|NAME|AGE|GENDER|
+|-----|-----|-----|
+|OJO|12|MALE|
+|MARY|10|FEMALE|
+~~~
