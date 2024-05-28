@@ -43,7 +43,7 @@ This outline provides a general structure for organizing and presenting data. Yo
 ## Tools use
 
 
-1. Microsoft Excel 
+1. Microsoft Excel [Download Here](https://bit.ly/COCBSS)
 2. Python libraries: Pandas, NumPy, Matplotlib, Scikit-learn
 3. Data visualization tools: Tableau, Power BI, D3.js
 4. Statistical analysis software: R, SPSS, SAS
@@ -51,5 +51,5 @@ This outline provides a general structure for organizing and presenting data. Yo
 6. Data mining tools: SQL, Oracle, MySQL
 7. Big data analytics tools: Hadoop, Spark, NoSQL databases
 8. Cloud-based platforms: Amazon Web Services (AWS), Google Cloud, Microsoft Azure
-9. Data science platforms: DataRobot, Dataiku, RapidMiner
+9. Data science platforms: DataRobot, Dataiku, Rapid Miner
 10. Business intelligence tools: QlikView, Cognos, BusinessObjects
