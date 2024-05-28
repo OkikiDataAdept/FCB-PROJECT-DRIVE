@@ -42,3 +42,17 @@ VIII. References
 
 This outline provides a general structure for organizing and presenting data. You can customize it to fit your specific needs and the type of data you are working with. 
 ## Data Source
+1. Surveys and questionnaires
+2. Social media platforms (e.g. Twitter, Facebook)
+3. Customer relationship management (CRM) systems
+4. Transactional databases (e.g. sales, customer purchases)
+5. Sensor data (e.g. IoT devices, sensors)
+6. Web scraping (extracting data from websites)
+7. APIs (Application Programming Interfaces)
+8. Public datasets (e.g. US Census, World Bank)
+9. Excel files or spreadsheets
+10. Text files or CSV files
+11. Databases (e.g. MySQL, PostgreSQL)
+12. Online analytics tools (e.g. Google Analytics)
+13. Customer feedback and reviews
+14. Market research reports
