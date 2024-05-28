@@ -56,3 +56,16 @@ This outline provides a general structure for organizing and presenting data. Yo
 12. Online analytics tools (e.g. Google Analytics)
 13. Customer feedback and reviews
 14. Market research reports
+## Tools use
+
+
+1. Microsoft Excel 
+2. Python libraries: Pandas, NumPy, Matplotlib, Scikit-learn
+3. Data visualization tools: Tableau, Power BI, D3.js
+4. Statistical analysis software: R, SPSS, SAS
+5. Machine learning frameworks: TensorFlow, PyTorch
+6. Data mining tools: SQL, Oracle, MySQL
+7. Big data analytics tools: Hadoop, Spark, NoSQL databases
+8. Cloud-based platforms: Amazon Web Services (AWS), Google Cloud, Microsoft Azure
+9. Data science platforms: DataRobot, Dataiku, RapidMiner
+10. Business intelligence tools: QlikView, Cognos, BusinessObjects
