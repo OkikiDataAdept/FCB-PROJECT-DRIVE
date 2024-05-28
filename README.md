@@ -56,3 +56,4 @@ This outline provides a general structure for organizing and presenting data. Yo
     SELECT *FROM TABLE 1
     WHERE CONDITION =NET
     ~~~
+![](OIP.jpeg)
