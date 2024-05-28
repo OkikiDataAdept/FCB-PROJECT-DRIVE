@@ -41,8 +41,6 @@ This outline provides a general structure for organizing and presenting data. Yo
 13. Customer feedback and reviews
 14. Market research reports
 ## Tools use
-
-
 1. Microsoft Excel [Download Here](https://bit.ly/COCBSS)
 2. Python libraries: Pandas, NumPy, Matplotlib, Scikit-learn
 3. Data visualization tools: Tableau, Power BI, D3.js
